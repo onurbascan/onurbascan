@@ -8,9 +8,9 @@
 
 - 📫 How to reach me **bascanonur@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/mehmet-onur-baC59Fcan-b5943b161](https://www.linkedin.com/in/mehmet-onur-ba%C5%9Fcan-b5943b161/)" target="blank"><img align="center" src="www.linkedin.com/in/mehmet-onur-başcan-b5943b161" alt="mehmet-onur-başcan-b5943b161" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehmet onur başcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet onur başcan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
